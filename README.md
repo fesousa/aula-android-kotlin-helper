@@ -1,7 +1,9 @@
 # aula-android-kotlin-helper
 
 Classes auxiliares para projeto LMSApp
+
 baseado em https://github.com/livroandroid/kotlin-essencial-1ed
+
 
 Dependência do gradle:
 
