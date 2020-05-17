@@ -1,3 +1,10 @@
+/*
+Baseado nos códigos do livro
+LECHETA, R. R. Android Essencial com Kotlin. Edição: 1ª ed. Novatec, 2017. 
+
+Código original: https://github.com/livroandroid/kotlin-essencial-1ed
+*/
+
 package br.com.fernandosousa.lmsapp
 
 import android.util.Log
